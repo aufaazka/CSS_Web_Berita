@@ -1,0 +1,85 @@
+
+.nav {
+    background-color: #eee;
+    padding: 20px 10px;
+    overflow: hidden;
+  }
+  
+ 
+  .nav a {
+  
+    border-radius: 7px;
+    color: black;
+    float: left;
+    font-size: 20px; 
+    font-weight:600;
+    
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    
+  }
+  
+
+  .nav a:hover {
+    background-color: #ddd;
+    color: black;
+    padding: 10px 20px;
+  }
+  
+
+  .nav a:active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+ul.horizontal{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+
+}
+.nav-right {
+    float: right;
+    margin-right: 15px;
+    margin-top: 30px;
+  }
+ul.horizontal li{float: left;}
+ul.horizontal li a{
+   font-family:sans-serif ;
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    
+}
+ul.horizontal li a:hover {background-color:gray;}
+.background{
+    background-color: #eee; 
+  
+}
+.video{
+text-align: center;
+}
+
+.judul{
+    margin: 10px;
+}
+.foto{
+    margin-left: 10px;
+    bottom: 200px;
+    float: left;
+}
+.paragraf{
+  
+  
+  margin-left: 15px;
+  
+
+}
+
+
+  
